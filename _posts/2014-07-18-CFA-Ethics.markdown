@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2018-03-01
-img: CFA_badge.png
+img: cfaBadge.png
 alt: image-alt
 project-date: March 2018
 client:
