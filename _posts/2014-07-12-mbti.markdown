@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2016-01-31
+img: mbti.png
+alt: image-alt
+project-date: 2016
+client: 
+category: Personality Types
+description: How do you speak differently to introverted clients, rather than extroverted ones?  What about ones who want sequential details, versus those who just want the big picture?  Or even those who feel first, rather than think?  Personality preferences are just that - preferences - but one word or idea out of place in a conversation can cost an entire deal.  Why take the chance?
+
+---
