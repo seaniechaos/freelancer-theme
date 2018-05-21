@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2016-01-31
-img: mbti.png
+img: MBTI_badge_en.gif
 alt: image-alt
 project-date: 2016
 client: 
