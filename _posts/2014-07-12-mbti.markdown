@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2016
 client: 
 category: Personality Types
-description: How do you speak differently to introverted clients, rather than extroverted ones?  What about ones who want sequential details, versus those who just want the big picture?  Or even those who feel first, rather than think?  Personality preferences are just that - preferences - but one word or idea out of place in a conversation can cost an entire deal.  Why take the chance?
+description: I'm a Certified Practitioner of the Myers-Briggs Type Indicator® Step I and II.  Questions - How do you speak differently to introverted clients, rather than extroverted ones?  What about ones who want sequential details, versus those who just want the big picture?  Or even those who feel first, rather than think?  Personality preferences are just that - preferences - but one word or idea out of place in a conversation can cost an entire deal.  Why take the chance?
 
 ---
