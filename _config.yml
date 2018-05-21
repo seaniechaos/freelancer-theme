@@ -35,7 +35,7 @@ footer:
   copyright: Sean Ring, CAIA, FRM
   location: Hong Kong
   social: Around the Web
-  credits: Credits
+  credits: Thank you for coming by!
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,10 +55,9 @@ address:
   - line: 903 Dannies House
   - line: 20 Luard Road
   - line: Wan Chai
-  - line: Hong Kong SAR
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Have a great rest of your '
 
 # Build settings
 markdown: kramdown
