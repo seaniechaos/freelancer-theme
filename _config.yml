@@ -57,7 +57,7 @@ address:
   - line: Wan Chai
 
 # Credits content
-credits: 'Have a great rest of your'
+credits: 'Have a great rest of your '
 
 # Build settings
 markdown: kramdown
